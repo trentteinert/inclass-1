@@ -1,0 +1,22 @@
+{
+  "name": "inclass-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trentteinert/inclass-1.git"
+  },
+  "author": "trent teinert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trentteinert/inclass-1/issues"
+  },
+  "homepage": "https://github.com/trentteinert/inclass-1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
